@@ -60,7 +60,7 @@ This project showcases how to deploy a **fully functional static website** on AW
 Below is the complete build process of this project — from hosting a static website on S3 to connecting a serverless sign-up form using AWS Lambda and API Gateway. Screenshots are included to explain each major step.
 
 ## 🪣 Step 1: Create and Configure an S3 Bucket 
-- (screenshots/1.png/2.png/3.png/4.png/5.png)
+- (screenshots/1.png)
 
  - Opened the S3 console and created a new bucket with a unique name.
  - Disabled "Block all public access" to allow public access to the website files.
